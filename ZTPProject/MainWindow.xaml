@@ -1,0 +1,24 @@
+﻿<Window x:Class="ZTPProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZTPProject"
+        mc:Ignorable="d"
+   Title="ZTPProjekt" Height="650" Width="600" FocusVisualStyle="{DynamicResource MyFocusVisualStyle}">
+    <Window.Resources>
+        <Style x:Key="MyFocusVisualStyle">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Rectangle  Stroke="Transparent"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid FocusVisualStyle="{DynamicResource MyFocusVisualStyle}">
+        <Frame BorderBrush="Black" BorderThickness="0" 
+               Source="MenuPage.xaml" NavigationUIVisibility="Hidden" FocusVisualStyle="{DynamicResource MyFocusVisualStyle}"/>
+    </Grid>
+</Window>

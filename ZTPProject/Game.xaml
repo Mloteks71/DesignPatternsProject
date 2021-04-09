@@ -1,0 +1,40 @@
+﻿<Page x:Class="ZTPProject.Game"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ZTPProject"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="600"
+      Title="Game">
+    <Page.Resources>
+        
+        <Style x:Key="MyFocusVisualStyle">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Rectangle  Stroke="Transparent"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+    <Grid  Name="grid" Focusable="True" IsEnabled="True" FocusVisualStyle="{DynamicResource MyFocusVisualStyle}">
+        <Grid.Background >
+            <ImageBrush x:Name="imgspace"  />
+        </Grid.Background>
+        <Canvas Name="canvas" Background="Transparent" Focusable="True" Width="600" Height="600" KeyDown="KeyEvent" PreviewKeyDown="KeyEvent"
+                 KeyUp="KeyEvent2" PreviewKeyUp="KeyEvent2" IsEnabled="True" FocusVisualStyle="{DynamicResource MyFocusVisualStyle}">
+        </Canvas>
+       
+        <Label  Foreground="AntiqueWhite"  Content="Wynik: 0" Name="xmlresult"  VerticalAlignment="Top" FocusVisualStyle="{DynamicResource MyFocusVisualStyle}" Margin="10,0,131,0"  FontSize="20"/>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Right" >
+            <Image HorizontalAlignment="Right" Width="35" Height="35" Source="Files/coin.png"></Image>
+            <Label  Foreground="AntiqueWhite"  Content="0" Name="xmlmoney" HorizontalAlignment="Right" VerticalAlignment="Top" FocusVisualStyle="{DynamicResource MyFocusVisualStyle}" Margin="5,3,10,0"  FontSize="20"/>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Right" >
+            <Image HorizontalAlignment="Right" Width="30" Height="30" Source="Files/hp.png"></Image>
+            <Label  Foreground="AntiqueWhite"  Content="0" Name="xmlhp" HorizontalAlignment="Right" VerticalAlignment="Top" FocusVisualStyle="{DynamicResource MyFocusVisualStyle}" Margin="5,3,10,5"  FontSize="20"/>
+        </StackPanel>
+    </Grid>
+</Page>

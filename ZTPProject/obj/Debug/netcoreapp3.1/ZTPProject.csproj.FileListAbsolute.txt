@@ -1,0 +1,347 @@
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.exe
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.deps.json
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.runtimeconfig.json
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.runtimeconfig.dev.json
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.pdb
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.csprojAssemblyReference.cache
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject_MarkupCompile.cache
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject_MarkupCompile.lref
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.g.resources
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.AssemblyInfoInputs.cache
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.AssemblyInfo.cs
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.csproj.CoreCompileInputs.cache
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.pdb
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.genruntimeconfig.cache
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.csproj.CopyComplete
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\MenuPage.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\MenuPage.baml
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\Game.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\WynikiPage.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\Game.baml
+C:\Users\mjsty\OneDrive\Pulpit\ZTPProject\ZTPProject\obj\Debug\netcoreapp3.1\WynikiPage.baml
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.exe
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.deps.json
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.runtimeconfig.json
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.runtimeconfig.dev.json
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.pdb
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.csprojAssemblyReference.cache
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Game.g.cs
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\MenuPage.g.cs
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\WynikiPage.g.cs
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject_MarkupCompile.cache
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject_MarkupCompile.lref
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Game.baml
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\MenuPage.baml
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\WynikiPage.baml
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.g.resources
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.AssemblyInfoInputs.cache
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.AssemblyInfo.cs
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.csproj.CoreCompileInputs.cache
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.csproj.CopyComplete
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.dll
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.pdb
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.genruntimeconfig.cache
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.pdb
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.exe
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.deps.json
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.runtimeconfig.json
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.runtimeconfig.dev.json
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.pdb
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Game.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\MenuPage.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\WynikiPage.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject_MarkupCompile.cache
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject_MarkupCompile.lref
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Game.baml
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\MenuPage.baml
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\WynikiPage.baml
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.g.resources
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.AssemblyInfoInputs.cache
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.AssemblyInfo.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.csproj.CopyComplete
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.genruntimeconfig.cache
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\EndGame.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Lose.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Shop1.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\EndGame.baml
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Lose.baml
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Shop1.baml
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.exe
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.deps.json
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.runtimeconfig.json
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.runtimeconfig.dev.json
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.pdb
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.csprojAssemblyReference.cache
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\EndGame.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\Game.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\Lose.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\MenuPage.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\Shop1.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\WynikiPage.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject_MarkupCompile.cache
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject_MarkupCompile.lref
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\EndGame.baml
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\Game.baml
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\Lose.baml
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\MenuPage.baml
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\Shop1.baml
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\WynikiPage.baml
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.g.resources
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.AssemblyInfoInputs.cache
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.AssemblyInfo.cs
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.csproj.CoreCompileInputs.cache
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.csproj.CopyComplete
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.pdb
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProjectt\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.genruntimeconfig.cache
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\EndGame.g.cs
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Lose.g.cs
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Shop1.g.cs
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\EndGame.baml
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Lose.baml
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Shop1.baml
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.pdb
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.exe
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.deps.json
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.runtimeconfig.json
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.runtimeconfig.dev.json
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\ZTPProject.pdb
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.csprojAssemblyReference.cache
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\EndGame.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Game.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Lose.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\MenuPage.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Shop1.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\WynikiPage.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject_MarkupCompile.cache
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject_MarkupCompile.lref
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\EndGame.baml
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Game.baml
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Lose.baml
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\MenuPage.baml
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\Shop1.baml
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\WynikiPage.baml
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.g.resources
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.AssemblyInfoInputs.cache
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.AssemblyInfo.cs
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.csproj.CoreCompileInputs.cache
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.csproj.CopyComplete
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.genruntimeconfig.cache
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.csprojAssemblyReference.cache
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mjsty\OneDrive\Pulpit\DesignPatternsProject\ZTPProject\obj\Debug\netcoreapp3.1\ZTPProject.csproj.CoreCompileInputs.cache
+C:\Users\Mloteks71\Desktop\ZTP\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mjsty\OneDrive\Pulpit\Nowy folder\DesignPatternsProject\ZTPProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

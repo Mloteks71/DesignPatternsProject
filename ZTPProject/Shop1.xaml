@@ -1,0 +1,225 @@
+﻿<Page x:Class="ZTPProject.Shop1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ZTPProject"
+      mc:Ignorable="d" 
+          d:DesignHeight="650" d:DesignWidth="600"
+      Title="Shop1">
+
+
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+
+        </Grid.RowDefinitions>
+        <Grid.Background >
+            <ImageBrush  ImageSource="/Files/Space.jpg" />
+        </Grid.Background>
+        <Image Width="320" Height="200" Grid.Column="1" Grid.Row="0" Grid.RowSpan="3" Grid.ColumnSpan="5" Source="Files/SklepLogo.png"></Image>
+        <Image Width="110" Height="120" Grid.Column="1" Grid.Row="2" Grid.RowSpan="3" Grid.ColumnSpan="5" Margin="5,5,5,0" Source="Files/MyShip.png"></Image>
+        <StackPanel Orientation="Horizontal" Grid.Row="5" Grid.ColumnSpan="5" Grid.Column="1">
+            <Label Name="Res" HorizontalAlignment="Center" Content="Twój Wynik:" Foreground="AntiqueWhite" Grid.Column="2" FontSize="20" FontWeight="Bold" Margin="75,8,15,8" Grid.Row="5" Grid.ColumnSpan="3">
+            <Label.Background>
+                <ImageBrush ImageSource="/Files/SpaceBlue.jpg" />
+            </Label.Background>
+        </Label>
+            <Image  Width="45" Height="45" Grid.Column="1" Grid.Row="2" Grid.RowSpan="3" Grid.ColumnSpan="5" Margin="30,5,5,10" Source="Files/Coin.png"></Image>
+            <Label Name="Mon" Content="111" HorizontalAlignment="Center"  Foreground="AntiqueWhite" Grid.Column="2" FontSize="20" FontWeight="Bold" Margin="0,8,15,8" Grid.Row="5" Grid.ColumnSpan="3">
+                <Label.Background>
+                    <ImageBrush ImageSource="/Files/SpaceBlue.jpg" />
+                </Label.Background>
+            
+            </Label>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="7" Grid.ColumnSpan="5" Grid.Column="1" Grid.RowSpan="2">
+            <StackPanel>
+                <Label Foreground="AntiqueWhite" FontSize="20" FontWeight="Bold" Margin="8">Dmg 10$</Label>
+                <Button  Padding="10,5,10,5"  Foreground="AntiqueWhite" FontSize="20" FontWeight="Bold" Margin="22,0,70,0" Grid.Column="2" Grid.Row="9" Grid.ColumnSpan="3" Click="Dmg" >
+                    <Button.Background>
+                        <ImageBrush ImageSource="/Files/SpaceBlue.jpg" />
+                    </Button.Background> Kup
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="LightBlue" />
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="{x:Type Button}">
+                                        <Border x:Name="Border" Background="{TemplateBinding Background}">
+                                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" Margin="{TemplateBinding Padding}" />
+                                        </Border>
+                                        <ControlTemplate.Triggers>
+                                            <Trigger Property="IsMouseOver" Value="True">
+                                                <Setter Property="Background" TargetName="Border" >
+                                                    <Setter.Value>
+                                                        <ImageBrush ImageSource="Files/SpaceLightBlue.jpg" />
+                                                    </Setter.Value>
+                                                </Setter>
+                                            </Trigger>
+                                        </ControlTemplate.Triggers>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                    </Button.Style>
+                </Button>
+
+
+            </StackPanel>
+        <StackPanel>
+        <Label Foreground="AntiqueWhite" FontSize="20" FontWeight="Bold" Margin="8">%Dmg 15$</Label>
+                <Button Padding="10,5,10,5"   Foreground="AntiqueWhite" FontSize="20" FontWeight="Bold" Margin="40,0,70,0" Grid.Column="2" Grid.Row="9" Grid.ColumnSpan="3" Click="DmgProcent" >
+                    <Button.Background>
+                        <ImageBrush ImageSource="/Files/SpaceBlue.jpg" />
+                    </Button.Background> Kup
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="LightBlue" />
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="{x:Type Button}">
+                                        <Border x:Name="Border" Background="{TemplateBinding Background}">
+                                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" Margin="{TemplateBinding Padding}"/>
+                                        </Border>
+                                        <ControlTemplate.Triggers>
+                                            <Trigger Property="IsMouseOver" Value="True">
+                                                <Setter Property="Background" TargetName="Border" >
+                                                    <Setter.Value>
+                                                        <ImageBrush ImageSource="Files/SpaceLightBlue.jpg" />
+                                                    </Setter.Value>
+                                                </Setter>
+                                            </Trigger>
+                                        </ControlTemplate.Triggers>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                    </Button.Style>
+                </Button>
+
+
+            </StackPanel>
+        <StackPanel >
+                <Label Foreground="AntiqueWhite" FontSize="20" FontWeight="Bold" Margin="8" Content="%$ 20$"/>
+                <Button Padding="10,5,10,5"  Foreground="AntiqueWhite" FontSize="20" FontWeight="Bold" Margin="20,0,70,0" Grid.Column="2" Grid.Row="9" Grid.ColumnSpan="3" Click="Money" >
+                    <Button.Background>
+                        <ImageBrush ImageSource="/Files/SpaceBlue.jpg" />
+                    </Button.Background> Kup
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}">
+                            <Setter Property="Background" Value="LightBlue" />
+                            <Setter Property="Template">
+                                <Setter.Value>
+                                    <ControlTemplate TargetType="{x:Type Button}">
+                                        <Border x:Name="Border" Background="{TemplateBinding Background}">
+                                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" Margin="{TemplateBinding Padding}" />
+                                        </Border>
+                                        <ControlTemplate.Triggers>
+                                            <Trigger Property="IsMouseOver" Value="True">
+                                                <Setter Property="Background" TargetName="Border" >
+                                                    <Setter.Value>
+                                                        <ImageBrush ImageSource="Files/SpaceLightBlue.jpg" />
+                                                    </Setter.Value>
+                                                </Setter>
+                                            </Trigger>
+                                        </ControlTemplate.Triggers>
+                                    </ControlTemplate>
+                                </Setter.Value>
+                            </Setter>
+                        </Style>
+                    </Button.Style>
+                </Button>
+
+
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Grid.Column="1" Grid.Row="9" Grid.ColumnSpan="5">
+            <Button   Foreground="AntiqueWhite" FontSize="20" FontWeight="Bold" Margin="15,0,70,0" Grid.Column="2" Grid.Row="9" Grid.ColumnSpan="3" Click="Save" >
+            <Button.Background>
+                <ImageBrush ImageSource="/Files/SpaceBlue.jpg" />
+            </Button.Background> Zapisz Stan Gry
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="LightBlue" />
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type Button}">
+                                <Border x:Name="Border" Background="{TemplateBinding Background}">
+                                    <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" TargetName="Border" >
+                                            <Setter.Value>
+                                                <ImageBrush ImageSource="Files/SpaceLightBlue.jpg" />
+                                            </Setter.Value>
+                                        </Setter>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Button.Style>
+        </Button>
+
+
+
+            <Button    Foreground="AntiqueWhite" FontSize="20" FontWeight="Bold" Margin="15,0,15,0" Grid.Column="2" Grid.Row="9" Grid.ColumnSpan="3" Click="Next" >
+                <Button.Background>
+                    <ImageBrush ImageSource="/Files/SpaceBlue.jpg" />
+                </Button.Background> Następny Poziom
+                <Button.Style>
+                    <Style TargetType="{x:Type Button}">
+                        <Setter Property="Background" Value="LightBlue" />
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="{x:Type Button}">
+                                    <Border x:Name="Border" Background="{TemplateBinding Background}">
+                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                                    </Border>
+                                    <ControlTemplate.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" TargetName="Border" >
+                                                <Setter.Value>
+                                                    <ImageBrush ImageSource="Files/SpaceLightBlue.jpg" />
+                                                </Setter.Value>
+                                            </Setter>
+                                        </Trigger>
+                                    </ControlTemplate.Triggers>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </Button.Style>
+            </Button>
+        </StackPanel>
+        <StackPanel Grid.Row="10" Grid.Column="6" Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Right" >
+            <Image HorizontalAlignment="Right" Width="30" Height="30" Source="Files/hp.png"></Image>
+            <Label  Foreground="AntiqueWhite"  Content="0" Name="Hp" HorizontalAlignment="Right" VerticalAlignment="Top"  Margin="5,3,10,5"  FontSize="20"/>
+        </StackPanel>
+    </Grid>
+</Page>

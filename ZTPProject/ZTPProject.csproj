@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Files\BigTShot.png" />
+    <None Remove="Files\Boss.png" />
+    <None Remove="Files\Coin.png" />
+    <None Remove="Files\EndGameLogo.png" />
+    <None Remove="Files\Enemy1.png" />
+    <None Remove="Files\Enemy2.png" />
+    <None Remove="Files\Enemy3.png" />
+    <None Remove="Files\Enemy4.png" />
+    <None Remove="Files\EnemyShot.png" />
+    <None Remove="Files\hp.png" />
+    <None Remove="Files\LoseLogo.png" />
+    <None Remove="Files\MYship.png" />
+    <None Remove="Files\Shot.png" />
+    <None Remove="Files\SklepLogo.png" />
+    <None Remove="Files\Space.jpg" />
+    <None Remove="Files\SpaceBlue.jpg" />
+    <None Remove="Files\SpaceLightBlue.jpg" />
+    <None Remove="Files\top10.png" />
+    <None Remove="Files\TShot.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="5.0.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Files\BigTShot.png" />
+    <Resource Include="Files\Boss.png" />
+    <Resource Include="Files\Coin.png" />
+    <Resource Include="Files\EndGameLogo.png" />
+    <Resource Include="Files\Enemy1.png" />
+    <Resource Include="Files\Enemy2.png" />
+    <Resource Include="Files\Enemy3.png" />
+    <Resource Include="Files\Enemy4.png" />
+    <Resource Include="Files\EnemyShot.png" />
+    <Resource Include="Files\hp.png" />
+    <Resource Include="Files\LoseLogo.png" />
+    <Resource Include="Files\MYship.png" />
+    <Resource Include="Files\Shot.png" />
+    <Resource Include="Files\SklepLogo.png" />
+    <Resource Include="Files\Space.jpg" />
+    <Resource Include="Files\SpaceBlue.jpg" />
+    <Resource Include="Files\SpaceLightBlue.jpg" />
+    <Resource Include="Files\top10.png" />
+    <Resource Include="Files\TShot.png" />
+  </ItemGroup>
+
+</Project>
